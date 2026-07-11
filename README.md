@@ -81,6 +81,8 @@ Edit `SKILL_TAXONOMY` in `utils/nlp_utils.py`
 scikit-learn>=1.3.0
 pandas>=2.0.0
 numpy>=1.24.0
+preprocessing
+nlp
 pdfplumber>=0.9.0
 python-docx>=0.8.11
 matplotlib>=3.7.0
