@@ -24,7 +24,7 @@ python main.py
 # Run with your own JD + resume folder
 python main.py --jd job_description.txt --folder ./resumes/
 
-# Run accuracy evaluation
+# RUN 
 python evaluate.py
 ```
 
